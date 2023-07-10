@@ -7,7 +7,7 @@
 - 도커는 이미지를 만들기 위해 Dockerfile이라는 파일에 자체 DSLDomain-specific language 언어를 이용하여 이미지 생성 과정을 적습니다.
 
 ## 3. 실행 과정 순서
-- 1. aws 계정 생성 IAM 서비스에서 사용자 생성
+1. aws 계정 생성 IAM 서비스에서 사용자 생성
 2. 리눅스 우분투 20.0.4 t3.mediam
 
 3. cat /etc/lsb-release // 우분투 버전 확인
